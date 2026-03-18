@@ -1,0 +1,48 @@
+body {
+    font-family: monospace;
+    background-color: #111;
+    color: #eee;
+    margin: 60px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.profile-pic {
+    width: 180px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+h2 {
+    margin-top: 40px;
+    border-bottom: 1px solid #444;
+    padding-bottom: 5px;
+}
+
+hr {
+    border: 1px solid #333;
+    margin: 20px 0;
+}
+
+ul {
+    list-style-type: square;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th,
+td {
+    border: 1px solid #444;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #222;
+}
